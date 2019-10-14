@@ -16,7 +16,7 @@ Some intermediate files are not included due to space constraints. To get a PB s
 
 ==============================================  
 ### Other considerations
-Summary of the game process https://blog.csdn.net/weixin_39655021/article/details/102555088
+Summary of the game process https://blog.csdn.net/weixin_39655021/article/details/102555088  
 If there are any questions, please let me know by contacting 14021192@buaa.edu.cn
   
 
