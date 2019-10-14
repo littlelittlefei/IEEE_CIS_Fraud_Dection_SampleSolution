@@ -15,8 +15,7 @@ To run the code, please download data from https://www.kaggle.com/c/ieee-fraud-d
 Some intermediate files are not included due to space constraints. To get a PB score of 0.930468, just upload the `result/submission_self_final.csv`
 
 ==============================================  
-### Other considerations
-Summary of the game process https://blog.csdn.net/weixin_39655021/article/details/102555088  
+### Other considerations  
 If there are any questions, please let me know by contacting 14021192@buaa.edu.cn
   
 
