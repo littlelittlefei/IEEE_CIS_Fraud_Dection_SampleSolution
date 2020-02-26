@@ -6,8 +6,8 @@ https://www.kaggle.com/kyakovlev/ieee-lgbm-with-groupkfold-cv
 
 ==============================================  
 ### A brief description  
-To run the code, please download data from https://www.kaggle.com/c/ieee-fraud-detection/data, and put it to the directory `data/` 
-The following codes need to be run in order. 
+To run the code, please download data from https://www.kaggle.com/c/ieee-fraud-detection/data, and put it to the directory `data/`   
+The following codes need to be run in order.   
 `data-minification.ipynb`	Some preprocessing of the data  
 `lgbm.ipynb`	Feature engineer and lightgbm  
 `rf.ipynb`	RandomForest (Will run for a long time)  
